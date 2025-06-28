@@ -1,6 +1,8 @@
 <h2 align="left">
  <abc>
-  <br> I'm Kathushan, Full Stack Web Developer & Cloud & DevOps Engineer :computer:<br>
+  <br> I'm Kathushan,
+  
+  Full Stack Web Developer & Machine Learning Engineer :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
