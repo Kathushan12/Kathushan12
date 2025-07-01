@@ -2,13 +2,14 @@
  <abc>
   <br> I'm Kathushan,
   
-  Full Stack Web Developer & Machine Learning Engineer :computer:<br>
+  Front-End Developer & Machine Learning Engineer :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
+
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-   <p align="left"> 
+<p align="left"> 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -95,14 +96,13 @@
   </a>
 </p>
 
-
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: **Full Stack Developer** | 🤖 **AI/ML Integrator** | ☁️ **Cloud & DevOps Engineer**
-- :hourglass_flowing_sand: **Frontend**: React, Next.js, HTML/CSS, Tailwind
-- :rocket: **Backend**: Node.js, Express, Django, FastAPI
-- :man_technologist: **AI/ML**: Python, scikit-learn, OpenAI API
-- :dart: **Cloud/DevOps**: AWS, Docker, GitHub Actions, Terraform, Linux
+- :computer: **Front-End Developer** | 🤖 **Machine Learning Engineer**
+- :hourglass_flowing_sand: **Frontend**: React, HTML, CSS, JavaScript, Bootstrap, Tailwind
+- :rocket: **Backend**: FastAPI, Django (ML APIs)
+- :man_technologist: **Machine Learning**: Python, scikit-learn, TensorFlow, PyTorch, Hugging Face
+- :dart: **Tools & MLOps**: Streamlit, Git, OpenCV, Seaborn, spaCy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
