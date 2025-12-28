@@ -2,7 +2,7 @@
  <abc>
   <br> I'm Kathushan,
   
-  Front-End Developer & Machine Learning Engineer :computer:<br>
+  Full Stack Developer & Machine Learning Engineer :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
