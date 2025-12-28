@@ -118,7 +118,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: **Front-End Developer** | 🤖 **Machine Learning Engineer**
+- :computer: **Full Stack Developer** | 🤖 **Machine Learning Engineer**
 - :hourglass_flowing_sand: **Frontend**: React, HTML, CSS, JavaScript, Bootstrap, Tailwind
 - :rocket: **Backend**: FastAPI, Django (ML APIs)
 - :man_technologist: **Machine Learning**: Python, scikit-learn, TensorFlow, PyTorch, Hugging Face
