@@ -130,6 +130,6 @@ I'm interested in learning from the AI community, collaborating on meaningful pr
     <img src="https://img.shields.io/badge/LinkedIn-Kathushan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
   <a href="https://instagram.com/kathu__shan">
-    <img src="https://img.shields.io/badge/Instagram-kathushan__12-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram profile" />
+    <img src="https://img.shields.io/badge/Instagram-kathushan-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram profile" />
   </a>
 </p>
