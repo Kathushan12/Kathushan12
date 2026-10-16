@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/kathushan12">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/kathushan_12">
+  <a href="https://instagram.com/kathu__shan">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
@@ -129,7 +129,7 @@ I'm interested in learning from the AI community, collaborating on meaningful pr
   <a href="https://linkedin.com/in/kathushan12">
     <img src="https://img.shields.io/badge/LinkedIn-Kathushan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
-  <a href="https://instagram.com/kathushan_12">
+  <a href="https://instagram.com/kathu__shan">
     <img src="https://img.shields.io/badge/Instagram-kathushan__12-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram profile" />
   </a>
 </p>
